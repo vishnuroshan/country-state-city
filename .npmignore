@@ -1,5 +1,6 @@
 index.ts
 jest.config.js
 node_modules
+.git
 __test__
 coverage
